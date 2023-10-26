@@ -107,7 +107,7 @@ return [
     'customer' => 'Klant',
     'no_items' => 'Aantal stuks',
     'placed_at' => 'Geplaatst om',
-    'settings' => 'Installingen',
+    'settings' => 'Instellingen',
     'admin' => 'Admin',
     'under_construction' => 'In opbouw',
     'building_hub' => 'We zijn momenteel dit deel van de hub aan het bouwen, nog even geduld!',
